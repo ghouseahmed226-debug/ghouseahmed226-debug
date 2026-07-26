@@ -66,18 +66,22 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=pie&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-### 🏆 Trophies
+### 🗂️ Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghouseahmed226-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghouseahmed226-debug&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghouseahmed226-debug&theme=tokyonight" width="48%" />
 </div>
 
-### 📈 Activity Graph
+### 🌟 Quick Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghouseahmed226-debug&theme=tokyo-night" width="90%" />
+  <img src="https://img.shields.io/github/followers/ghouseahmed226-debug?label=Followers&style=for-the-badge&color=2E9EF7" />
+  <img src="https://img.shields.io/github/stars/ghouseahmed226-debug?label=Total%20Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ghouseahmed226-debug&label=Public%20Repos&query=public_repos&style=for-the-badge&color=success" />
 </div>
 
 ### 🐍 Contribution Snake
