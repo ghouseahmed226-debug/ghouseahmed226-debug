@@ -68,26 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ghouseahmed226-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
