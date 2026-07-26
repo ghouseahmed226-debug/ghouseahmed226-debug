@@ -57,9 +57,31 @@
 
 </div>
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghouseahmed226-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ghouseahmed226-debug&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghouseahmed226-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghouseahmed226-debug&theme=tokyo-night" width="90%" />
+</div>
+
+### 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghouseahmed226-debug/ghouseahmed226-debug/output/github-contribution-grid-snake-dark.svg">
