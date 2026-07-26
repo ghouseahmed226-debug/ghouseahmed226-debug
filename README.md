@@ -76,17 +76,7 @@
   <img src="https://img.shields.io/badge/IBM_SkillsBuild-DL_%2F_NLP_%2F_CV-054ADA?style=flat-square&logo=ibm&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghouseahmed226-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ghouseahmed226-debug&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=pie&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
 ### 🗂️ Profile Summary
 
@@ -95,11 +85,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghouseahmed226-debug&theme=tokyonight" width="48%" />
 </div>
 
-### 🌟 Quick Stats
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ghouseahmed226-debug?label=Followers&style=for-the-badge&color=2E9EF7" />
-</div>
 
 ### 🐍 Contribution Snake
 
