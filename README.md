@@ -71,7 +71,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghouseahmed226-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ghouseahmed226-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ### 🐍 Contribution Snake
