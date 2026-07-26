@@ -57,18 +57,6 @@
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghouseahmed226-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ghouseahmed226-debug&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=pie&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 ### 🗂️ Profile Summary
 
 <div align="center">
