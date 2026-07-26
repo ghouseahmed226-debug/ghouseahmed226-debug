@@ -1,109 +1,92 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Ghouse+Ahmed;Full-Stack+AI%2FML+Developer;Agentic+AI+Engineer;Building+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohammed+Ghouse+Ahmed;Agentic+AI+Engineer+Intern;Full-Stack+Developer;Building+production-grade+AI+systems" alt="Typing SVG" />
 
-</div>
-
-<h1 align="center">Mohammed Ghouse Ahmed</h1>
-
-<p align="center">
-  <b>Full-Stack AI/ML Developer | Agentic AI Engineer | Building Autonomous Systems</b>
+<p>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ghouse-ahmed/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghouseahmed226@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghouseahmed226-debug)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ghouseahmed226-debug&style=for-the-badge&color=7AA2F7)
-
 </div>
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science and Engineering**
-- 💼 Working as an **Agentic AI Engineer Intern** in the **FinTech** sector
-- 🌐 **Google Student Ambassador (2026)**
-- 🤖 Core focus: **multi-agent orchestration**, **full-stack system design**, and **AI-driven automation**
-- ⚡ I sit at the intersection of solid engineering fundamentals and bleeding-edge agentic AI — designing systems where autonomous agents don't just respond, but *reason, plan, and act*
-- 🚀 Currently building production-grade AI systems that bridge robust software architecture with intelligent automation
-- 📫 Always open to collaborating on multi-agent systems, fintech AI, and full-stack products
+- 🎓 B.E. in Computer Science & Engineering, MJCET
+- 🤖 Agentic AI Engineer Intern — designing multi-agent systems and autonomous workflows
+- 🌱 Google Student Ambassador (2026)
+- 🧠 Focused on LLM orchestration, agentic frameworks, and full-stack AI product engineering
+- 📫 Reach me at **YOUR_EMAIL**
 
----
+### 🚀 What I'm Building
 
-### 🛠️ Tech Stack
+| Project | Description |
+|---|---|
+| 📈 **WealthPilot AI** | Autonomous portfolio rebalancing system for robo-advisors, monitoring real-time portfolio drift and executing rebalancing logic without manual intervention. |
+| 🏦 **Compliance Monitoring System** | Multi-agent AI framework that validates real-world regulatory scenarios, built for financial-sector compliance workflows. |
+| 🛠️ **FixNow** | AI-powered smart technician booking platform — Next.js + Tailwind CSS frontend, Gemini API for intelligent matching and scheduling. |
+
+### 🧰 Tech Stack
+
+<div align="center">
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 **Frameworks & Libraries**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**AI & Data**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-4B32C3?style=for-the-badge&logo=semanticweb&logoColor=white)
+**AI / Agentic Systems**
+<br/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 **Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
----
-
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ghouseahmed226-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghouseahmed226-debug&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghouseahmed226-debug&theme=tokyonight&hide_border=true" />
+### 🏆 Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **WealthPilot AI** | An autonomous portfolio rebalancing system built for robo-advisory, monitoring portfolio drift in near-real-time and triggering rebalancing actions autonomously. | `Python` `AI Agents` `Financial Systems` |
-| **Compliance Monitoring System** | A multi-agent AI architecture developed for a global bank to validate real-world regulatory scenarios through coordinated agent reasoning. | `Multi-Agent Systems` `LangChain` `FinTech AI` |
-| **FixNow** | An AI-powered smart technician booking platform with intelligent matching and conversational booking flows. | `Next.js` `Tailwind CSS` `Gemini API` |
-
----
-
 <div align="center">
-
-### 🤝 Let's Connect
-
-I'm always excited to talk about agentic AI, fintech systems, or full-stack engineering. If you're a recruiter, collaborator, or fellow builder — my inbox is open.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ghouse-ahmed/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghouseahmed226@gmail.com)
-
-⭐️ From [ghouseahmed226-debug](https://github.com/ghouseahmed226-debug)
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
 </div>
