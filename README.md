@@ -23,8 +23,8 @@
 
 | Project | Description |
 |---|---|
-| 📈 **WealthPilot AI** | Autonomous portfolio rebalancing system for robo-advisors, monitoring real-time portfolio drift and executing rebalancing logic without manual intervention. |
-| 🏦 **Compliance Monitoring System** | Multi-agent AI framework that validates real-world regulatory scenarios, built for financial-sector compliance workflows. |
+| 📈 **OMNI DEV** | Autonomous portfolio rebalancing system for robo-advisors, monitoring real-time portfolio drift and executing rebalancing logic without manual intervention. |
+| 🤖 **AXIOM99** | Multi-agent AI framework that validates real-world regulatory scenarios, built for financial-sector compliance workflows. |
 | 🛠️ **FixNow** | AI-powered smart technician booking platform — Next.js + Tailwind CSS frontend, Gemini API for intelligent matching and scheduling. |
 
 ### 🧰 Tech Stack
